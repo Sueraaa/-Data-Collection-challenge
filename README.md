@@ -36,12 +36,14 @@ Name: count, dtype: int64
 2. How many Martian (and not Earth) days worth of data exist in the scraped dataset?
 - 1867
 3. What are the coldest and the warmest months on Mars (at the location of Curiosity)? 
-
-![Average Temperature by Month](/Starter_Code/resources/average_temperature_by_month.png)
-
-4. Which months have the lowest and the highest atmospheric pressure on Mars? 
+- Based on the bar chart below, it is evident that the coldest month on Mars is March (3rd month), with a minimum temperature recorded at approximately -83.307292 degrees Celsius. Conversely, the warmest month is August (8th month), with a minimum temperature recorded at approximately -68.382979 degrees Celsius.
 
 ![Average Temperature by Month](/Starter_Code/resources/average_temperature_by_month(coldest%20&%20hottest).png)
+
+4. Which months have the lowest and the highest atmospheric pressure on Mars? 
+- Based on the bar chart below, it is observed that the lowest atmospheric pressure reported on Mars occurred in the 6th month (June), recorded at 745.054422. Conversely, the highest atmospheric pressure reported on Mars was observed in the 9th month (September), recorded at 913.305970.
+
+![Average Temperature by Month](/Starter_Code/resources/average_pressure_by_month_sorted.png)
 
 5. About how many terrestrial (Earth) days exist in a Martian year? 
 
